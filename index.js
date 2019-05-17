@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const logger = require('winston');
-const {prefix, } = require('./auth.json');
+const prefix = '/';
 const token = process.env.token;
 const ytdl = require('ytdl-core');
 const queue = new Map();
