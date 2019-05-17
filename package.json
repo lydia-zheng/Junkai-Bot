@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "First Discord Bot For Server",
   "main": "index.js",
+  /* "scripts": {
+    "start": "node index.js"
+  }, */
   "author": "Knight",
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
@@ -11,9 +14,6 @@
     "opusscript": "0.0.6",
     "winston": "^3.2.1",
     "ytdl-core": "^0.29.2"
-  },
-  "scripts": {
-    "start": "node index.js"
   }
   
 }
