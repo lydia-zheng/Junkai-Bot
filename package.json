@@ -4,7 +4,7 @@
   "description": "First Discord Bot For Server",
   "main": "index.js",
   "scripts": {
-    "start": "node indexnp.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
