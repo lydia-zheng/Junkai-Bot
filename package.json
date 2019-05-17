@@ -2,7 +2,7 @@
   "name": "greeter-bot",
   "version": "1.0.0",
   "description": "First Discord Bot For Server",
-  "main": "bot.js",
+  "main": "index.js",
   "author": "Knight",
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
